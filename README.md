@@ -82,6 +82,10 @@ top
 : watch all thread that are running right now
 https://tigercosmos.xyz/post/2020/04/unix/top-usage/
 
+crontab
+: schedule task
+https://blog.gtwang.org/linux/linux-crontab-cron-job-tutorial-and-examples/
+
 # Web
 
 ping
